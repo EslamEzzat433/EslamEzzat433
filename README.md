@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/EslamEzzat433/EslamEzzat433/blob/main/wave.gif" width="40px">, I'm <a href="https://www.linkedin.com/in/eslam-ezzat-371bb3191/">ESLAM!</a>
+# Hey <img src="https://github.com/EslamEzzat433/EslamEzzat433/blob/main/wave.gif" width="20px">, I'm <a href="https://www.linkedin.com/in/eslam-ezzat-371bb3191/">ESLAM!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
